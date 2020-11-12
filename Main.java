@@ -7,6 +7,8 @@ class Main {
    for ( int i = 0; i < studentsName.length; i++){
    System.out.println("Please type your name.");
    studentsName [i] = scan.next();}
+   int  i = 0;
+   
    
   }
 }
