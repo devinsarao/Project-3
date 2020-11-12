@@ -6,9 +6,10 @@ class Main {
    Scanner scan = new Scanner(System.in); 
    for ( int i = 0; i < studentsName.length; i++){
    System.out.println("Please type your name.");
-   studentsName [i] = scan.next();}
+   seatNumber [i] = scan.next();}
    int  i = 0;
    while (seat [i] < studentsName.length)
+   System.out.println(studentsName[i] + " Sits in seat number " + )
    
   }
 }
