@@ -8,7 +8,7 @@ class Main {
    System.out.println("Please type your name.");
    studentsName [i] = scan.next();}
    int  i = 0;
-   
+   while (seat [i] < studentsName.length)
    
   }
 }
