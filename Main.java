@@ -9,7 +9,8 @@ class Main {
    seatNumber [i] = scan.next();}
    int  i = 0;
    while (seat [i] < studentsName.length)
-   System.out.println(studentsName[i] + " Sits in seat number " + )
+   System.out.println(studentsName[i] + " Sits in seat number " + seatNumber[i]);
+   
    
   }
 }
