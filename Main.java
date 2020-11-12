@@ -5,6 +5,6 @@ class Main {
    String[] studentsName = new String[15];
    Scanner scan = new Scanner(System.in); 
    for ( int i = 0; i < studentsName.length; i++)
-   
+   System.out.println("Please type your name.");
   }
 }
